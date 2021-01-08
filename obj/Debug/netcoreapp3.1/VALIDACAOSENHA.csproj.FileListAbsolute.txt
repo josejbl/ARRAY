@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\VALIDACAOSENHA\bin\Debug\netcoreapp3.1\VALIDACAOSENHA.exe
+C:\Users\fic\Desktop\VALIDACAOSENHA\bin\Debug\netcoreapp3.1\VALIDACAOSENHA.deps.json
+C:\Users\fic\Desktop\VALIDACAOSENHA\bin\Debug\netcoreapp3.1\VALIDACAOSENHA.runtimeconfig.json
+C:\Users\fic\Desktop\VALIDACAOSENHA\bin\Debug\netcoreapp3.1\VALIDACAOSENHA.runtimeconfig.dev.json
+C:\Users\fic\Desktop\VALIDACAOSENHA\bin\Debug\netcoreapp3.1\VALIDACAOSENHA.dll
+C:\Users\fic\Desktop\VALIDACAOSENHA\bin\Debug\netcoreapp3.1\VALIDACAOSENHA.pdb
+C:\Users\fic\Desktop\VALIDACAOSENHA\obj\Debug\netcoreapp3.1\VALIDACAOSENHA.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\VALIDACAOSENHA\obj\Debug\netcoreapp3.1\VALIDACAOSENHA.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\VALIDACAOSENHA\obj\Debug\netcoreapp3.1\VALIDACAOSENHA.AssemblyInfo.cs
+C:\Users\fic\Desktop\VALIDACAOSENHA\obj\Debug\netcoreapp3.1\VALIDACAOSENHA.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\VALIDACAOSENHA\obj\Debug\netcoreapp3.1\VALIDACAOSENHA.dll
+C:\Users\fic\Desktop\VALIDACAOSENHA\obj\Debug\netcoreapp3.1\VALIDACAOSENHA.pdb
+C:\Users\fic\Desktop\VALIDACAOSENHA\obj\Debug\netcoreapp3.1\VALIDACAOSENHA.genruntimeconfig.cache
